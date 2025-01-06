@@ -16,7 +16,7 @@ $$\begin{cases} 2b + m + 5c = 100 \cr b + 2m + c = 23 \cr 2b + m + 3c = 35 \end{
 - [ ] (C)
 
 $$\begin{cases} m + 2b + 5 = 20 \cr 2b + m + c = 10 \cr b + 2m + 3c = 15 \end{cases}$$
-- [x] (D)
+- [ ] (D)
 
 $$\begin{cases} 2b + m + 5c = 20 \cr b + 2m + c = 10 \cr 2b + m + 3c = 15 \end{cases}$$
 
@@ -27,7 +27,7 @@ $$\begin{bmatrix} 2 & 1 & 5 & 20 \cr 1 & 2 & 1 & 10 \cr 2 & 1 & 3 & 15 \end{bmat
 - [ ] (B)
 
 $$\begin{bmatrix} 2 & 1 & 0 \cr 1 & 2 & 0 \cr 2 & 1 & 0 \end{bmatrix}$$
-- [x] (C)
+- [ ] (C)
 
 $$\begin{bmatrix} 2 & 1 & 5 \cr 1 & 2 & 1 \cr 2 & 1 & 3 \end{bmatrix}$$
 - [ ] (D)
@@ -38,12 +38,12 @@ $$\begin{bmatrix} 2 & 1 \cr 1 & 2 \cr 2 & 1 \end{bmatrix}$$
 
 Hint: To find the determinant, apply the method described in the lecture The determinant (3x3)
 - [ ] 6, Singular
-- [x] -6, Non-singular
+- [ ] -6, Non-singular
 - [ ] -6, Singular
 - [ ] 0, Singular
 
 **4. Determine if the matrix found in Question 2 has linearly dependent or independent rows.**
-- [x] Linearly independent.
+- [ ] Linearly independent.
 - [ ] It cannot be determined.
 - [ ] Linearly dependent.
 
@@ -53,7 +53,7 @@ Solve the system of equations for each of the spacecraft.
 - [ ] basalt = 6g, meteorite = 1g, crystal = 3g
 - [ ] basalt = 2.5g, meteorite = 2.5g, crystal = 5.5g
 - [ ] basalt = 1.5g, meteorite = 3.5g, crystal = 2.5g
-- [x] each rock sample = 2.5g
+- [ ] each rock sample = 2.5g
 
 **6.** You are given the following matrix with the values for rock samples weighs in the Perseverance and Curiosity rovers, consisting of the first and second row respectively. 
 
@@ -62,7 +62,7 @@ Solve the system of equations for each of the spacecraft.
 $$\begin{bmatrix} 2 & 1 & 5 \cr 1 & 2 & 1 \cr \color{red}\mathbf{x} & \color{red}\mathbf{y} & \color{red}\mathbf{z} \end{bmatrix}$$
 
 (Notation for weight samples: x - basalt, y - meteorite, z- crystal.)
-- [x] x = 3, y = 3, z = 6
+- [ ] x = 3, y = 3, z = 6
 - [ ] x = 1, y = 3, z = 3
 - [ ] x = 1, y = 2, z = 3
 
@@ -72,19 +72,19 @@ $$\begin{bmatrix} 1 & 2 & 3 \cr 0 & 2 & 2 \cr 1 & 4 & 5 \end{bmatrix}$$
 
 **Calculate the determinant in the system of equations and determine if the matrix is singular or non-singular.**
 - [ ] 5, Non-singular
-- [x] 0, Singular
+- [ ] 0, Singular
 - [ ] 0, Non-singular
 
 **8. Select which of the following are true for non-singular matrices.**
-- [x] In a non-singular matrix, rows are linearly independent.
+- [ ] In a non-singular matrix, rows are linearly independent.
 - [ ] In a non-singular matrix a row can be a multiple of the other one.
 - [ ] In a non-singular matrix, rows are linearly dependent.
-- [x] In a non-singular matrix there is only a unique solution for the represented system of equations.
+- [ ] In a non-singular matrix there is only a unique solution for the represented system of equations.
 
 **9. To train your AI assistant to classify systems of equations, you’re now asked to select the correct sequence of graphs that represents a system of linear equations with:**
 
 **1. zero solutions, 2. just one solution, 3. infinitely many solutions.**
-- [x] (A)
+- [ ] (A)
 
 ![missing](images/C1_W1_Quiz_1.png)
 - [ ] (B)
@@ -106,6 +106,6 @@ $$\begin{bmatrix} 1 & 2 & 3 \cr 0 & 2 & 2 \cr 1 & 4 & 5 \end{bmatrix}$$
 - [ ] (C)
 
 ![missing](images/C1_W1_Quiz_6.png)
-- [x] (D)
+- [ ] (D)
 
 ![missing](images/C1_W1_Quiz_7.png)
